@@ -6,3 +6,4 @@ read name
 
 echo Hello, $name!
 
+echo It is great to meet you!
